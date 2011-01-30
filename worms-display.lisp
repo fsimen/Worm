@@ -1,7 +1,3 @@
-;;; glut-template.lisp
-;;#<:use "load opengl">
-
-
 (defclass my-window (glut:window)
   ()
   (:default-initargs

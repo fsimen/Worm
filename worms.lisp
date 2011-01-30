@@ -1,4 +1,5 @@
 
+
 ;; un vierme este lista de forma (segment segment segment ...)
 ;; un segment este de forma ((x1 y1) (x2 y2)) x,y coordonate
 ;; perechea (x1 y1) este primul perechea initial al segmentului 
